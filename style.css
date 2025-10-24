@@ -16,6 +16,13 @@ header{
    top: 0;
    z-index: 1000;
 }
+.logo{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+span{
+    color: #ccc;
+}
 ul{
     display: flex;
     gap: 1.5rem;
@@ -146,6 +153,8 @@ footer{
 .icons{
     display: flex;
     gap: 1rem;
+    font-size: 1.3rem;
+    cursor: pointer;
    padding: 1rem 0;
 }
 
